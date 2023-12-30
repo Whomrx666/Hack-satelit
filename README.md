@@ -1,5 +1,5 @@
 # Hack satelit
-![Hack-satelit](Hack-satelit.png)
+![Hack-satelit](Hack-satelit.jpg)
 
 Hack satellites easily
 
